@@ -76,7 +76,7 @@
     <PackageReference Include="Microsoft.ML" Version="4.0.0-preview.24162.2" />
     <PackageReference Include="Microsoft.ML.TensorFlow" Version="4.0.0-preview.24162.2" />
     <PackageReference Include="Microsoft.ML.Vision" Version="4.0.0-preview.24162.2" />
-    <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.5.240404000" />
+    <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.6.250108002" />
     <PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.26031-preview" />
     <PackageReference Include="OpenCvSharp4" Version="4.9.0.20240103" />
     <PackageReference Include="OpenCvSharp4.Extensions" Version="4.9.0.20240103" />
