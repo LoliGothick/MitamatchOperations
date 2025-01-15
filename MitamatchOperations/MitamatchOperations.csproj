@@ -73,9 +73,9 @@
     <PackageReference Include="LiteDB" Version="5.0.19" />
     <PackageReference Include="MathNet.Numerics" Version="6.0.0-beta1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0-preview.2.24128.4" />
-    <PackageReference Include="Microsoft.ML" Version="4.0.0-preview.24162.2" />
-    <PackageReference Include="Microsoft.ML.TensorFlow" Version="4.0.0-preview.24162.2" />
-    <PackageReference Include="Microsoft.ML.Vision" Version="4.0.0-preview.24162.2" />
+    <PackageReference Include="Microsoft.ML" Version="4.0.1" />
+    <PackageReference Include="Microsoft.ML.TensorFlow" Version="4.0.1" />
+    <PackageReference Include="Microsoft.ML.Vision" Version="4.0.1" />
     <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.5.240404000" />
     <PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.26031-preview" />
     <PackageReference Include="OpenCvSharp4" Version="4.9.0.20240103" />
